@@ -1,4 +1,24 @@
 @font-face {
+    font-family: "Open Sans";
+    src: url("../fonts/opensans/opensans.ttf") format("truetype");
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Playfair Display";
+    src: url("../fonts/playfair/playfairdisplay.ttf") format("truetype");
+    font-weight: 600;
+    font-style: normal;
+}
+
+
+
+
+
+
+
+/* @font-face {
     font-family: "Lato";
     src: url("../fonts/Lato/Lato-Black.ttf") format("truetype");
     font-weight: 600;
@@ -10,3 +30,10 @@
     font-weight: 400;
     font-style: normal;
 }
+
+@font-face {
+    font-family: "Slick";
+    src: url("../fonts/slick.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+} */
